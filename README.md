@@ -1,6 +1,6 @@
 # Battleship-RMI-GUI
 The Battleship Game on networks using RMI, having GUI .
-These project consists of 4 classes and 1 interface files which are as follows:
+These project consists of 5 files which are as follows:
 1>BattleshipInterface.java--> Interface-->BattleshipInterface interface having all the methods required by the client.
 2>BattleshipImplementationM.java--> BattleshipImplementation class implements the BattleshipInterface methods.
 This class has all the logic of the game and is the class to be binded to the registry.
